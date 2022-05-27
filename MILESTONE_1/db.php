@@ -76,6 +76,6 @@ $discs = [
     ],
 ];
 //var_dump($discs);
-header('Content-Type: application/json');
+/* header('Content-Type: application/json');
 header('Access-Control-Allow-Origin: *');
-echo json_encode($discs);
+echo json_encode($discs); */
