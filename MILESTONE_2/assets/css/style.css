@@ -1,0 +1,24 @@
+:root {
+    --spotify-primary: #00d95f;
+    --header-bg:#2E3A46;
+    --main-bg:#1E2D3B;
+    --text-secondary: #6D6660;
+}
+header{
+    background-color: var(--header-bg);
+    height: 60px;
+}
+main{
+    height: calc(100vh - 60px);
+    background-color: var(--main-bg);
+}
+.col-2>img{
+    width: 90%;
+}
+.col-2{
+    background-color: var(--header-bg);
+}
+p{
+    color: var(--text-secondary);
+    margin-bottom: -1rem;
+}
