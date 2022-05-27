@@ -61,7 +61,7 @@ export default {
   },
   data() {
     return {
-      API_URL: "http://localhost/PHP/php-ajax-dischi/MILESTONE_1/db.php",
+      API_URL: "http://localhost/PHP/php-ajax-dischi/MILESTONE_2/db.php",
       item: null,
       loading: true,
       error:null,
